@@ -5,10 +5,14 @@ button {
     padding-bottom: 8px;
     padding-left: 16px;
     padding-right: 16px;
-
+    cursor: pointer;
     border-radius: 5px;
     border: none;
     border-bottom: 3px solid #013472;
     /*          x   y  blr  sprd  clr */
     box-shadow: 0px 0px 5px #999;
+}
+
+button:hover {
+    background-color: #013472;
 }
