@@ -1,9 +1,13 @@
 :root {
-    --base-clr: orange;
+    --base-clr: rgb(130, 250, 148);
+    --sp-inside: 8px 20px;
+    --rd-crnrs: 20px;
 }
 
 h2 {
     background-color: var(--base-clr);
+    padding: var(--sp-inside);
+    border-radius: var(--rd-crnrs);
 }
 
 p {
@@ -12,4 +16,6 @@ p {
 
 button {
     background-color: var(--base-clr);
+    padding: var(--sp-inside);
+    border-radius: var(--rd-crnrs);
 }
