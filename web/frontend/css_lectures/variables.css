@@ -1,0 +1,15 @@
+:root {
+    --base-clr: orange;
+}
+
+h2 {
+    background-color: var(--base-clr);
+}
+
+p {
+    color: var(--base-clr);
+}
+
+button {
+    background-color: var(--base-clr);
+}
