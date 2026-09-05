@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-align-last: center;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+
+    text-transform: capitalize;
+}
