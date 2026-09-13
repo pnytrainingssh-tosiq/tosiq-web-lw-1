@@ -1,0 +1,24 @@
+.heading{
+    color: purple
+}
+
+.box{
+    width: fit-content;
+    padding: 20px;
+    background-image: url('./assets/bg.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.name-field {
+    display: flex;
+    gap: 8px;
+}
+
+.name-field div {
+    padding: 8px;
+}
+form div div label {
+    display: block;
+    margin-bottom: 8px;
+}
