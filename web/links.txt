@@ -1,2 +1,5 @@
 18 Sep, 2026 (position in css)
 	- https://www.youtube.com/watch?v=oR_BCwJKj6s
+
+19 Sep, 2026 (positions, responsiveness (media-query))
+	- https://www.youtube.com/watch?v=j-fxbeGl_0s

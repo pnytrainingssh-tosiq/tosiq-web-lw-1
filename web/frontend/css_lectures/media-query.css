@@ -1,0 +1,46 @@
+h2{
+    color: purple;
+}
+
+p {
+    color: gray;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(70, 3, 70);
+}
+
+/* 100px to 767px */
+@media (max-width: 767px) {
+    body {
+        background-color: rgb(177, 205, 245);
+    }
+    h2 {
+        color: blue;
+        font-size: 16px;
+    }
+    p {
+        display: none;
+    }
+}
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 1023px){
+    body{
+        background-color: burlywood;
+    }
+
+    button {
+        background-color: rgb(140, 13, 13);
+        padding: 12px 20px;
+    }
+}
