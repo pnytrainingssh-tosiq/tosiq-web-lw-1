@@ -1,0 +1,28 @@
+.name-field {
+    background-color: rgb(218, 218, 218);
+    padding:8px 12px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+}
+
+.name-field input {
+    border: none;
+    background-color: inherit;
+}
+
+.name-field input:focus {
+    outline: none;
+}
+
+.divider {
+    display: flex;
+    flex: wrap;
+    gap: 4px;
+    align-items: center;
+}
+hr {
+    flex: 1 0 auto
+}
