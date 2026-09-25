@@ -4,5 +4,8 @@
 19 Sep, 2026 (positions, responsiveness (media-query))
 	- https://www.youtube.com/watch?v=j-fxbeGl_0s
 
-20 Sep, 2026 (animation, tailwindcss)
+20 Sep, 2026 (animation)
 	- https://www.youtube.com/watch?v=QIGm5sgwdL0
+
+25 Sep, 2026 (bootstrap)
+	- https://www.youtube.com/watch?v=QP1-jRO7Xo8
