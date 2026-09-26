@@ -9,3 +9,6 @@
 
 25 Sep, 2026 (bootstrap)
 	- https://www.youtube.com/watch?v=QP1-jRO7Xo8
+
+26 Sep, 2026 (tailwindcss)
+	- https://www.youtube.com/watch?v=c4_O1JOIbhY
