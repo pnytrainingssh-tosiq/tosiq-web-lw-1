@@ -12,3 +12,6 @@
 
 26 Sep, 2026 (tailwindcss)
 	- https://www.youtube.com/watch?v=c4_O1JOIbhY
+
+04 Oct, 2026 (js intro)
+	- https://www.youtube.com/watch?v=ySK0vVfH0gI
