@@ -7,10 +7,24 @@
 // }
 
 // leap year code here
-var year = 2024
 
-if (year % 4 == 0) {
-    console.log(year,"is leap year")
-} else {
-    console.log(year,"is not leap year")
+
+function checkLeapYear(){
+    var year = document.getElementById("year").value
+    // 0000 => 1000 9999
+    if (year.length != 4) {
+        alert("Invalid entry")
+        return;
+    }
+
+    if (!year) {
+        alert("Please provide year")
+        return;
+    }
+
+    if (year % 4 == 0) {
+        console.log(year,"is leap year")
+    } else {
+        console.log(year,"is not leap year")
+    }
 }
