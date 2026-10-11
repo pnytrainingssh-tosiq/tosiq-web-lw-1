@@ -21,3 +21,6 @@
 
 10 Oct, 2026 (Grid, if else statement)
 	- https://www.youtube.com/watch?v=EV5pgFLWKb4
+
+11 Oct, 2026 (let var const, switch, loop)
+	- https://www.youtube.com/watch?v=zwQCVZha14w
