@@ -24,3 +24,6 @@
 
 11 Oct, 2026 (let var const, switch, loop)
 	- https://www.youtube.com/watch?v=zwQCVZha14w
+
+16 Oct, 2026 (arrays, while loop)
+	- https://www.youtube.com/watch?v=z-BZFIrHe3A
