@@ -15,3 +15,7 @@ console.log(colors)
 const newArray = colors.concat(tasks)
 console.log(newArray)
 console.log(newArray.length)
+// colors.splice(index Number, mode(0 for replace, 1 for remove), "value if replace")
+
+colors.splice(2, 0, "Pink")
+console.log(colors)
