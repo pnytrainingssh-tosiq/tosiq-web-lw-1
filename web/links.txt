@@ -27,3 +27,6 @@
 
 16 Oct, 2026 (arrays, while loop)
 	- https://www.youtube.com/watch?v=z-BZFIrHe3A
+
+17 Oct, 2026 (map)
+	- https://www.youtube.com/watch?v=3BEGTtxb3EQ

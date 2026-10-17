@@ -6,7 +6,6 @@ for (let i = 0; i < languages.length; i++){
 }
 
 // map, filter, find, reduce, some
-
 const employees = [
     {id: 1, name: "Alexa", salary: 40000, status: "active"},
     {id: 2, name: "Samith", salary: 140000, status: "inactive"},
@@ -30,4 +29,28 @@ function showData(data) {
     })
 }
 
+// reduce
+let totalExpense = employees.reduce((sum, emp) => sum + emp.salary, 0)
+console.log(totalExpense)
 
+// find
+let id = 3
+const emp = employees.find((emp) => emp.id == id)
+console.log(emp)
+
+// filter
+let salaryA = 40000
+let salaryB = 100000
+const filteredEmployees = employees.filter((emp) => 
+    emp.salary >= salaryA && emp.salary <= salaryB)
+console.log(filteredEmployees)
+
+
+function filterEmpBySalaryRange() {
+    let sa = document.getElementById("salaryA").value
+    let sb = document.getElementById("salaryB").value
+
+    const filteredEmployees = employees.filter((emp) => 
+        emp.salary >= sa && emp.salary <= sb)
+    console.log(filteredEmployees)
+}
