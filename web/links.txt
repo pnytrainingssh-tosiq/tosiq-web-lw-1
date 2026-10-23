@@ -34,5 +34,5 @@
 18 Oct, 2026 (localstorage, strings)
 	- https://www.youtube.com/watch?v=2jHFJUbowlY
 
-23 Oct, 2026 (Revision)
+23 Oct, 2026 (Revision, react intro)
 	- https://meet.google.com/ieg-ccbs-guf
