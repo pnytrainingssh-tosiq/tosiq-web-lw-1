@@ -23,3 +23,13 @@ Step 3:
 
     - to install tool / pkg
     npm i pkg_name
+
+    ------------------------
+    Topics
+
+    Styling
+    Components
+    Props
+    Children
+    Hooks
+    Global state management

@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+
+h2 {
+    color: gray;
+}
+
+button{
+    background-color: purple;
+    color: white;
+    padding: 8px 16px;
+    border: 0px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 3px gray;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(81, 3, 81);
+}
