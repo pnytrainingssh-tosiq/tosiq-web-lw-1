@@ -37,5 +37,8 @@
 23 Oct, 2026 (Revision, react intro)
 	- https://meet.google.com/ieg-ccbs-guf
 
-25 Oct, 2026 (cv format)
+25 Oct, 2026 (components, cv format)
 	- https://www.youtube.com/watch?v=n6GRnlWxvF8
+
+30 Oct, 2026 (props, tailwindcss installation)
+	- https://www.youtube.com/watch?v=895v3OEOQgo
