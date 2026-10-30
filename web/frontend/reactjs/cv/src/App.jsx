@@ -27,6 +27,13 @@ function App() {
         <div className="col-span-3">
           <DashboardItem text="Total Users" value="9932" />
         </div>
+
+        <div className="col-span-6">
+          <DashboardItem text="My leads graph" value="Decreasing day by day" />
+        </div>
+        <div className="col-span-6">
+          <DashboardItem text="Total trafic" value="90211 per day" />
+        </div>
       </div>
     </div>
   )
