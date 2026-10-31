@@ -42,3 +42,6 @@
 
 30 Oct, 2026 (props, tailwindcss installation)
 	- https://www.youtube.com/watch?v=895v3OEOQgo
+
+31 Oct, 2026 (react navigations)
+	- https://www.youtube.com/watch?v=_RvszfdcNFE
