@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.notfoundimg {
+    background-image: url("./assets/pagenotfound.png");
+    background-position: center;
+    background-size: cover;
+    height: 70dvh;
+}
