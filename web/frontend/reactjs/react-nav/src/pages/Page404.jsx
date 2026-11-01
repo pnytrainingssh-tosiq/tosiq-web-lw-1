@@ -1,6 +1,5 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
-import NotFoundImg from '../assets/pagenotfound.png'
 const Page404 = () => {
   return (
     <div>
